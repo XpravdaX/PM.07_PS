@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from order_service import OrderService
+from modules.order_service import OrderService
 
 
 class ChangeStatusForm:

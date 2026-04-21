@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from db_config import DBConnection
+from modules.db_config import DBConnection
 
 
 class OrdersForm:
